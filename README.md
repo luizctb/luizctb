@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm currently studying Front-End programming.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, GIT, TYPESCRIPT, NODE, SQL.
-- 👯 At the moment I'm not collaborating, I'm learning.
-- 🤔 I'm looking for help with React, Javascript.
-- 📫 Como chegar até mim: (github/luizctb) linkedin (linkedin.com/in/luiz-tome-basilio/)
-- 😄 Pronouns: Tomé.
-
+- 🔭 Currently working as a Full-Stack Developer.
+- 🌱 Knowledge of HTML, CSS, JAVASCRIPT, REACT, GIT, TYPESCRIPT, NODE, SQL, NEXT.JS, NEST.JS, STORYBOOK, TAILWIND technologies.
+- 👯Working in the development area..
+- 🤔 I'm looking for help with new technologies.
+- 📫 How to reach me: (github/luizctb) linkedin (linkedin.com/in/luiz-tome-basilio/)
+- 😄 Pronouns: Thomas.
