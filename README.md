@@ -5,4 +5,4 @@
 - 👯Working in the development area..
 - 🤔 I'm looking for help with new technologies.
 - 📫 How to reach me: (github/luizctb) linkedin (linkedin.com/in/luiz-tome-basilio/)
-- 😄 Pronouns: Thomas.
+- 😄 Pronouns: Tomé.
