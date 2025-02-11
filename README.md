@@ -1,6 +1,5 @@
 ## Hi there! 👋
-I'm Luiz Tomé Basílio, a Junior Full-Stack Web Developer passionate about building scalable and high-performance applications.
-
+I'm Luiz Tomé, a Junior Full-Stack Web Developer passionate about building scalable and high-performance applications.
 - 💻 Tech Stack:
 Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Storybook, Styled Components, Tailwind CSS.
 Backend: Node.js, Nest.js, SQL, PostgreSQL, MongoDB.
