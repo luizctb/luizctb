@@ -10,4 +10,3 @@ Tools & Workflow: Git, GitHub, CI/CD, Agile (Scrum/Kanban).
 - 📫 Let's connect:
 GitHub: github.com/luizctb
 LinkedIn: linkedin.com/in/luiz-tome-basilio/
--⚡ Fun fact: Always eager to learn something new and solve challenging problems!
